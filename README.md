@@ -1,6 +1,6 @@
 # Fantasy-Premier-League
 
-#### A quick analysis of players performance over the last season which would help us predict their performance for the upcoming season.
+#### A quick analysis of players performance over the last season which helps us predict their performance for the upcoming season.
 
 ![image](https://user-images.githubusercontent.com/57348155/137635494-f6fa7475-68d3-487f-a608-698067e3c317.png)
 
